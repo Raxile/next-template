@@ -53,5 +53,10 @@
     ],
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": 0
+  },
+  // TODO: ask rishi about this
+  "env": {
+    "browser": true,
+    "es6": true
   }
 }
